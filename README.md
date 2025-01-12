@@ -1,2 +1,2 @@
 # all-page
-page all code 
+page all code project ( WMS ) 
